@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm Alan
+- 🔭 I’m currently working on my bots (Tada and Doc)
+- 💻 I'm currently learning JS
+- 📫 How to reach me: Reach me through discord! (AlanCh4n#3042)
+- - ⚡ Fun fact: I'm a youtuber!
 
 <!--
 **AlanCh4n/AlanCh4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
