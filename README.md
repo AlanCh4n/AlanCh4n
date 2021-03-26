@@ -1,7 +1,7 @@
 ### Hi! I'm Alan
-- 🔭 I’m currently working on my bots (Tada and Doc)
+- 🔭 I’m currently working on my bot (Doc)
 - 💻 I'm currently learning JS
-- 📫 How to reach me: Reach me through discord! (AlanCh4n#3042)
+- 📫 How to reach me: Reach me through discord! ([Discord Link](https://discord.gg/gyRBBB6DBP))
 - - ⚡ Fun fact: I'm a youtuber!
 
 <!--
